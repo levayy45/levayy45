@@ -2,4 +2,4 @@
 
 [![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/tzidini)](https://github.com/oakoudad/badge42)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levayy45&layout=compact)](https://github.com/levayy45)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=levayy45&layout=compact)](https://github.com/levayy45)
